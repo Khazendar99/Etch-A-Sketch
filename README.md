@@ -1,2 +1,2 @@
-# Etch-A-Sketch
+# Etch-A-Sketch (FrontEnd Project)
 ## Done With Vanilla JS.
